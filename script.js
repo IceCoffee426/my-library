@@ -1,4 +1,5 @@
-// Next steps: save data
+// Curent bug: editing multiple books
+// Next steps: save data, log in
 
 // Main div holding all the books, add button and the form it displays
 const bookLibrary = document.querySelector(".book-library");
