@@ -16,7 +16,7 @@ Currently does not remember books when you refresh the page. More functionality 
 
 ## Version History
 
-- 1.0 (13/11/2022)
+- 1.0 (24/02/2023)
   - Initial Release
 
 ## License
